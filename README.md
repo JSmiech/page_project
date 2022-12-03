@@ -10,7 +10,7 @@ Just introduction page for future use. For now it is filled with example text.
 
 Page allows user to add notes. For now it is not integrated to serwer with any datasource, but allows to add elements to page only.
 
-![Notes page](docs/notes-page.PNG)
+![Notes page](docs/note-page.PNG)
 
 ## Charts page
 
